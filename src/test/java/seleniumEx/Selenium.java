@@ -2,6 +2,6 @@ package seleniumEx;
 
 public class Selenium {
 
-  int a =20;
+  int a =2;
 
 }
