@@ -7,6 +7,13 @@ public class SeleniumEx1 {
 		int a =10;
 		String str = null;
 		String str1 = str;
+		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
 
 	}
 
