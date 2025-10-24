@@ -6,9 +6,10 @@ public class SeleniumEx1 {
 
 		int b = 10;
 		int a =10;
+		int c = 30;
 		String str = null;
 		String str1 = str;
-
+		
 
 	}
 
