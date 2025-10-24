@@ -3,7 +3,7 @@ package seleniumPKG;
 public class SeleniumEx1 {
 
 	public static void main(String[] args) {
-		int b = 20;
+		int a = 45;
 
 	}
 
