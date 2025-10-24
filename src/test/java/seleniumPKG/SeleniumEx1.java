@@ -6,6 +6,7 @@ public class SeleniumEx1 {
 		int b = 10;
 		int a =10;
 		int c =0;
+		System.out.println("hello");
 		String str = null;
 		String str1 = str;
 
