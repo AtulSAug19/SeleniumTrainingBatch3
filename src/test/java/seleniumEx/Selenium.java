@@ -6,7 +6,9 @@ public class Selenium {
   int a = 202;
   int c = 323;
   public static void main(String[] args) {
-	System.out.println("asdfasd");
+	int a =192;
+	int c = asdf;
+	
 	  System.out.println(123);
 	
 }
