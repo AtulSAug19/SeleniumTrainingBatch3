@@ -3,8 +3,8 @@ package seleniumPKG;
 public class SeleniumEx1 {
 
 	public static void main(String[] args) {
-		int b = 10;
-		System.out.println(b);
+		int a = 200;
+		//System.out.println(b);
 	}
 
 }
