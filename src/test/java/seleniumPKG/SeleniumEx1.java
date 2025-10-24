@@ -3,12 +3,10 @@ package seleniumPKG;
 public class SeleniumEx1 {
 
 	public static void main(String[] args) {
-		int b = 10;
-		int a =10;
-		int c =0;
-		System.out.println("hello");
-		String str = null;
-		String str1 = str;
+		System.out.println("Hello");
+		System.out.println("Hello");
+		System.out.println("Hello");
+		System.out.println("Hello");
 
 	}
 
