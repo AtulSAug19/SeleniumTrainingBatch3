@@ -6,6 +6,10 @@ public class SeleniumEx1 {
 		System.out.println("Hello");
 		System.out.println("hii");
 		System.out.println("Byee");
+		System.out.println("Byee");
+		System.out.println("Byee");
+		System.out.println("Byee");
+		System.out.println("Byee");
 
 	}
 
