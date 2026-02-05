@@ -1,4 +1,4 @@
-package seleniumEx;
+package seleniumPKG;
 
 public class SeleniumEx3 {
 
